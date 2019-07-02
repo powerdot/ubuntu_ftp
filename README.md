@@ -3,24 +3,28 @@ Quickly install FTP Server on Ubuntu
 
 Easy steps to setup FTP on your Ubuntu 16-18 server.
 
-## Download script
+## Install with 1 line
+```
+wget https://raw.githubusercontent.com/powerdot/ubuntu_ftp/master/qiftp.sh && chmod +x qiftp.sh && ./qiftp.sh
+```
+
+or
+
+## Install by steps
+
+### Download script
 ```
 wget https://raw.githubusercontent.com/powerdot/ubuntu_ftp/master/qiftp.sh
 ```
 
-## Set run rule
+##$ Set run rule
 ```
 chmod +x qiftp.sh
 ```
 
-## Run script
+### Run script
 ```
 ./qiftp.sh
-```
-
-# Also you can Install it all with 1 line:
-```
-wget https://raw.githubusercontent.com/powerdot/ubuntu_ftp/master/qiftp.sh && chmod +x qiftp.sh && ./qiftp.sh
 ```
 
 ## Follow instruction in console.
