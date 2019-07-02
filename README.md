@@ -17,7 +17,7 @@ or
 wget https://raw.githubusercontent.com/powerdot/ubuntu_ftp/master/qiftp.sh
 ```
 
-##$ Set run rule
+### Set run rule
 ```
 chmod +x qiftp.sh
 ```
