@@ -38,6 +38,7 @@ echo "Installing FTP..."
 apt-get install vsftpd -y
 service vsftpd stop
 chmod 777 /etc/vsftpd.conf
+cp /etc/vsftpd.conf /etc/vsftpd.conf.default
 rm /etc/vsftpd.conf
 echo "listen=YES" > /etc/vsftpd.conf
 echo "listen_ipv6=NO" >> /etc/vsftpd.conf
