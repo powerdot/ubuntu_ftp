@@ -1,7 +1,7 @@
 # ubuntu_ftp
 Quickly install FTP Server on Ubuntu
 
-Easy steps to setup FTP on your Ubuntu 16-18 server. (Works on newer Versions too)
+Easy steps to setup FTP on your Ubuntu 16-18 server. (Works on newer versions too)
 
 ## Install with 1 line
 ```
